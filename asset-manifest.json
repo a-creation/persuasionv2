@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/persuasionv2/static/css/main.bc167b2e.chunk.css",
+    "main.js": "/persuasionv2/static/js/main.82e15617.chunk.js",
+    "main.js.map": "/persuasionv2/static/js/main.82e15617.chunk.js.map",
+    "runtime-main.js": "/persuasionv2/static/js/runtime-main.232807ba.js",
+    "runtime-main.js.map": "/persuasionv2/static/js/runtime-main.232807ba.js.map",
+    "static/js/2.715961d6.chunk.js": "/persuasionv2/static/js/2.715961d6.chunk.js",
+    "static/js/2.715961d6.chunk.js.map": "/persuasionv2/static/js/2.715961d6.chunk.js.map",
+    "static/js/3.92af874b.chunk.js": "/persuasionv2/static/js/3.92af874b.chunk.js",
+    "static/js/3.92af874b.chunk.js.map": "/persuasionv2/static/js/3.92af874b.chunk.js.map",
+    "index.html": "/persuasionv2/index.html",
+    "static/css/main.bc167b2e.chunk.css.map": "/persuasionv2/static/css/main.bc167b2e.chunk.css.map",
+    "static/js/2.715961d6.chunk.js.LICENSE.txt": "/persuasionv2/static/js/2.715961d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232807ba.js",
+    "static/js/2.715961d6.chunk.js",
+    "static/css/main.bc167b2e.chunk.css",
+    "static/js/main.82e15617.chunk.js"
+  ]
+}
